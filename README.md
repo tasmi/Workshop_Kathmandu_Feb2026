@@ -1,6 +1,6 @@
 **Materials and Data for the Workshop "Combining Satellite and In-Situ Data for Ecosystem Monitoring"**
 
-![Group Photo 22-Feb-2026](Notebooks/Images/Group_Photo.jpg)
+![Group Photo 22-Feb-2026](Notebooks/Images/Group_Photo.jpeg)
 
 <p align="center">
 Kathmandu, Feb 2026
